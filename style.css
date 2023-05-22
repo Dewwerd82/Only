@@ -1,0 +1,62 @@
+/*------------------------------------*\
+	COMMONS CLASSES
+\*------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family: 'Roboto Slab', serif;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    margin-bottom: 1.1em;
+}
+
+.container-fluid
+{
+    padding-top: 3.3em;
+    padding-bottom: 4.2em;
+}
+
+
+
+
+/*------------------------------------*\
+	HEADER
+\*------------------------------------*/
+
+header .container-fluid
+{
+    background-image: url('https://unsplash.it/2560/1707?image=961');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding-top: 36px;
+}
+
+
+
+.jumbotron1 h1
+{
+    text-align: center;
+    width: 1000px;
+}
+
+
+/*------------------------------------*\
+	SECTIONS
+\*------------------------------------*/
+
+.container-fluid
+{
+    background-image: url('https://unsplash.it/3000/2000?image=685');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/*------------------------------------*\
+	FOOTER
+\*------------------------------------*/
+
